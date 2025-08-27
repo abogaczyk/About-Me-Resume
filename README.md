@@ -19,13 +19,13 @@ Hi! My name is Alyssa Bogaczyk. I am currently finishing my MBA in Data Science 
 - Explored a Kaggle housing dataset to identify key features influencing home prices.  
 - Built and evaluated predictive models including Linear, Polynomial, and Ridge Regression.  
 - Key findings: Larger area, more bathrooms, parking availability, and air conditioning positively influence house prices.  
-- Source code, visualizations, and model evaluation details are available in the repo.
+- **Source Code:** https://github.com/abogaczyk/Falcon9-Landing-Prediction-Project 
 
 ---
 
 ## Resume
 
-You can also download my resume here: [Resume PDF Link]
+You can also download my resume here: https://github.com/abogaczyk/About-Me-Resume/blob/main/Bogaczyk%20Alyssa%20Resume%20.pdf
 
 ---
 
