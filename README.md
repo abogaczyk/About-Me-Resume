@@ -8,7 +8,7 @@ Hi! My name is Alyssa Bogaczyk. I am currently finishing my MBA in Data Science 
 
 **Falcon 9 First Stage Landing Prediction**  
 - **Abstract:** This IBM Data Science Capstone project predicts whether the SpaceX Falcon 9 first stage booster will successfully land after launch. The project uses collected launch data and classification models to provide insights that support launch cost estimates and commercial competitiveness.  
-- **Source Code:** [GitHub Repository Link]  
+- **Source Code:** https://github.com/abogaczyk/Falcon9-Landing-Prediction-Project 
 - **Key Findings / Demo:** Models include Logistic Regression, SVM, Decision Trees, and KNN. Interactive dashboards created using Plotly Dash and Folium allow exploration of launch sites, trajectories, and landing outcomes. Screenshots and visualizations included in the repo.
 
 ---
